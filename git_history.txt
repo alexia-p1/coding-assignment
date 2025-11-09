@@ -1,0 +1,49 @@
+  242  pwd
+  243  cd "C:\Users\Lenovo\Desktop\edp\fall 1\coding\coding_assignment"
+  244  ls
+  245  git clone https://github.com/alexia-p1/coding-assignment.git
+  246  ls
+  247  ls -a
+  250  cd coding-assignment
+  251  ls -a
+  252  git status
+  253  cp ~/Downloads/hotels-vienna.csv ~/Documents/edp/fall 1/coding_assignment/coding-assignment/
+  254  pwd
+  255  cp ~/Downloads/hotels-vienna.csv /c/Users/Lenovo/Desktop/edp/fall 1/coding/coding_assignment/coding-assignment
+  256  cp ~/Downloads/hotels-vienna.csv ~/coding/coding_assignment/coding-assignment
+  258  history
+  259  cp ~/Downloads/hotels-vienna.csv .
+  260  git add hotels-vienna.csv
+  261  git commit -m "Add data csv file"
+  262  git push
+  263  ls -a
+  264  git add python_output
+  265  git status
+  266  git commit -m "Add version cleaned in Python"
+  267  git push
+  268  cp C:\Users\Lenovo\Desktop\edp\fall 1\coding\python_work.py .
+  275  cp "~/Desktop/edp/fall 1/coding/python_work.py" .
+  276  cp ../../python_work.py .
+  277  ls -a
+  278  git status
+  279  git add python_output/hotels-clean.csv
+  280  git add python_work.py
+  281  git commit -m "Updated hotels-clean and added python session code"
+  282  git push
+  283  git pull origin main
+  284  git push
+  285  cp ~/Downloads/01-reading-hotels .
+  286  cp ~/Downloads/01-reading-hotels.do .
+  287  cp ~/Downloads/02-working-hotels.do .
+  288  cp master. do .
+  289  cp master.do .
+  290  cp ~/Downloads/master.do .
+  291  ls -a
+  292  git add 01-reading-hotels.do
+  293  git add 02-working-hotels.do
+  294  git add master.do
+  295  git commit -m "Added Stata .do files"
+  296  git push
+  297  git pull
+  298  git push
+  299  history
